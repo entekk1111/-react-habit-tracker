@@ -6,7 +6,7 @@ import "@fortawesome/fontawesome-free/js/all.js";
 import SimpleHabit from "./components/simpleHabit";
 
 ReactDOM.render(
-  //<App />,
-  <SimpleHabit />,
+  <App />,
+  //<SimpleHabit />,
   document.getElementById("root")
 );
